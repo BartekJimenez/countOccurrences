@@ -75,12 +75,7 @@ You can mimic the same procedure with different search terms and choices 1-3. Al
 Do note that when you stress the system, all the documents get loaded into memory where all the unique words are used as list that the random selector chooses from, hence all the words have relevance. 
 
 
-			}
-
-
-
-
 ## TODOS
 
-
+Currently the app is a work in progress, with the focus making sure the core functions work. You may notice that it can be error prone if a user enters an incorrect value, requiring a restart. The next additions will focus on ensuring that the program doesn't result in any errors from user input!
 
