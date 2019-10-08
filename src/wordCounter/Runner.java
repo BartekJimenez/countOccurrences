@@ -106,12 +106,12 @@ public class Runner {
 			break;
 		case 2:
 			for (String file: files) {
-				serFile.searchRegex(path, file, wordname);
+				serFile.searchRegex(path, file, wordname); //249294
 			}
 			break;
 		case 3:
 			for (String file: files) {
-				serFile.searchIndex(path, file, wordname);
+				serFile.searchIndex(path, file, wordname); //156793
 			}
 			break;	
 		}
